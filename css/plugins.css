@@ -7567,7 +7567,6 @@ xrotate-1
   -webkit-perspective: 300px;
   -moz-perspective: 300px;
   perspective: 300px;
-  text-align: center;
 }
 .cd-headline.rotate-1 b {
   opacity: 0;
@@ -7581,7 +7580,6 @@ xrotate-1
   -ms-transform: rotateX(180deg);
   -o-transform: rotateX(180deg);
   transform: rotateX(180deg);
-  text-align: center;
 }
 .cd-headline.rotate-1 b.is-visible {
   opacity: 1;
@@ -7593,7 +7591,6 @@ xrotate-1
   -webkit-animation: cd-rotate-1-in 1.2s;
   -moz-animation: cd-rotate-1-in 1.2s;
   animation: cd-rotate-1-in 1.2s;
-  text-align: center;
 }
 .cd-headline.rotate-1 b.is-hidden {
   -webkit-transform: rotateX(180deg);
@@ -7604,7 +7601,6 @@ xrotate-1
   -webkit-animation: cd-rotate-1-out 1.2s;
   -moz-animation: cd-rotate-1-out 1.2s;
   animation: cd-rotate-1-out 1.2s;
-  text-align: center;
 }
 
 @-webkit-keyframes cd-rotate-1-in {
@@ -7850,17 +7846,14 @@ xrotate-2
   -webkit-perspective: 300px;
   -moz-perspective: 300px;
   perspective: 300px;
-  text-align: center;
 }
 .cd-headline.rotate-2 i, .cd-headline.rotate-2 em {
   display: inline-block;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  text-align: center;
 }
 .cd-headline.rotate-2 b {
   opacity: 0;
-  text-align: center;
 }
 .cd-headline.rotate-2 i {
   -webkit-transform-style: preserve-3d;
@@ -7874,23 +7867,19 @@ xrotate-2
   -o-transform: translateZ(-20px) rotateX(90deg);
   transform: translateZ(-20px) rotateX(90deg);
   opacity: 0;
-  text-align: center;
 }
 .is-visible .cd-headline.rotate-2 i {
   opacity: 1;
-  text-align: center;
 }
 .cd-headline.rotate-2 i.in {
   -webkit-animation: cd-rotate-2-in 0.4s forwards;
   -moz-animation: cd-rotate-2-in 0.4s forwards;
   animation: cd-rotate-2-in 0.4s forwards;
-  text-align: center;
 }
 .cd-headline.rotate-2 i.out {
   -webkit-animation: cd-rotate-2-out 0.4s forwards;
   -moz-animation: cd-rotate-2-out 0.4s forwards;
   animation: cd-rotate-2-out 0.4s forwards;
-  text-align: center;
 }
 .cd-headline.rotate-2 em {
   -webkit-transform: translateZ(20px);
@@ -7898,7 +7887,6 @@ xrotate-2
   -ms-transform: translateZ(20px);
   -o-transform: translateZ(20px);
   transform: translateZ(20px);
-  text-align: center;
 }
 
 .no-csstransitions .cd-headline.rotate-2 i {
@@ -7908,7 +7896,6 @@ xrotate-2
   -o-transform: rotateX(0deg);
   transform: rotateX(0deg);
   opacity: 0;
-  text-align: center;
 }
 .no-csstransitions .cd-headline.rotate-2 i em {
   -webkit-transform: scale(1);
@@ -7916,12 +7903,10 @@ xrotate-2
   -ms-transform: scale(1);
   -o-transform: scale(1);
   transform: scale(1);
-  text-align: center;
 }
 
 .no-csstransitions .cd-headline.rotate-2 .is-visible i {
   opacity: 1;
-  text-align: center;
 }
 
 @-webkit-keyframes cd-rotate-2-in {
@@ -8355,11 +8340,9 @@ xrotate-3
   -webkit-perspective: 300px;
   -moz-perspective: 300px;
   perspective: 300px;
-  text-align: center;
 }
 .cd-headline.rotate-3 b {
   opacity: 0;
-  text-align: center;
 }
 .cd-headline.rotate-3 i {
   display: inline-block;
@@ -8370,7 +8353,6 @@ xrotate-3
   transform: rotateY(180deg);
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  text-align: center;
 }
 .is-visible .cd-headline.rotate-3 i {
   -webkit-transform: rotateY(0deg);
@@ -8378,19 +8360,16 @@ xrotate-3
   -ms-transform: rotateY(0deg);
   -o-transform: rotateY(0deg);
   transform: rotateY(0deg);
-  text-align: center;
 }
 .cd-headline.rotate-3 i.in {
   -webkit-animation: cd-rotate-3-in 0.6s forwards;
   -moz-animation: cd-rotate-3-in 0.6s forwards;
   animation: cd-rotate-3-in 0.6s forwards;
-  text-align: center;
 }
 .cd-headline.rotate-3 i.out {
   -webkit-animation: cd-rotate-3-out 0.6s forwards;
   -moz-animation: cd-rotate-3-out 0.6s forwards;
   animation: cd-rotate-3-out 0.6s forwards;
-  text-align: center;
 }
 
 .no-csstransitions .cd-headline.rotate-3 i {
@@ -8400,12 +8379,10 @@ xrotate-3
   -o-transform: rotateY(0deg);
   transform: rotateY(0deg);
   opacity: 0;
-  text-align: center;
 }
 
 .no-csstransitions .cd-headline.rotate-3 .is-visible i {
   opacity: 1;
-  text-align: center;
 }
 
 @-webkit-keyframes cd-rotate-3-in {
