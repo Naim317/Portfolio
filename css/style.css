@@ -1398,7 +1398,7 @@ h6 { font-size: 16px; }
 }
 .edrea_tm_swiper_progress .my_navigation{
 	position: relative;
-	left: 6px;
+	left: -12px;
 }
 .edrea_tm_swiper_progress .my_navigation ul{
 	margin: 0px;
