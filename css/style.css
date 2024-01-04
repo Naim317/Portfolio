@@ -1,26 +1,5 @@
 @charset "utf-8";
 
-/*
-/*	Copyright (c) 2022 Marketify
-/*	Author: Marketify
-/*	This file is made for CURRENT TEMPLATE
-
-01)	EDREA BASE
-02)	EDREA MOBILE MENU
-03) EDREA HEADER
-04) EDREA CONTENT
-05) EDREA HOME
-06) EDREA ABOUT
-07) EDREA PORTFOLIO
-08) EDREA NEWS
-09) EDREA CONTACT
-10) EDREA MAGIC CURSOR
-11) EDREA MEDIA QUERIES (FOR SMALL DEVIVES)
-
-/*---------------------------------------------------*/
-/*	01) EDREA BASE
-/*---------------------------------------------------*/
-
 :root{
     --main-color: #00d4bd;
 }
